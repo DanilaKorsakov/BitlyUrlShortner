@@ -1,11 +1,8 @@
 import os
-
-from urllib.parse import urlparse
-
 import requests
-
 import argparse
 
+from urllib.parse import urlparse
 from dotenv import load_dotenv
 
 
