@@ -3,7 +3,7 @@
 /.idea/
 /.config/
 /.cache/
-*.breakpoins
+*.breakpoints
 *.env
 *.gitattributes
 *.replit
